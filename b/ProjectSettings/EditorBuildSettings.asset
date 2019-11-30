@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/MainMenu.unity
+    guid: df6850b6bcb6e6c429fea41eac854dec
+  - enabled: 1
+    path: Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/SceneLoader.unity
+    guid: e92d1d4c15fc07a42b93b5e226dab4fd
+  - enabled: 1
+    path: Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/Showcase.unity
+    guid: 4ed8efcdce25b5e49bc925153166e9d0
+  - enabled: 1
+    path: Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/TheHouse Demo.unity
+    guid: 9c1e1ef0d125341449211600dac25344
+  - enabled: 1
+    path: Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/Example/SavingExample/SavingScene01.unity
+    guid: 161be0ba3384e16488c355d809e2d394
+  - enabled: 1
+    path: Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/Example/SavingExample/SavingScene02.unity
+    guid: a7bfff2b296037b4eba8867601e57531
   m_configObjects: {}

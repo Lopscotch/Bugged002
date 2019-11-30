@@ -3,7 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Grab
+  - WeaponCamera
+  - Interact
+  - Ladder
+  - DynamicObject
+  - Grass
+  - Wood
+  - Floor
+  - Metal
+  - Dirt
+  - HideEvent
+  - Flesh
+  - GameManager
+  - Water Volume
+  - Paper
+  - OnlyGrab
   layers:
   - Default
   - TransparentFX
@@ -13,17 +29,17 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Weapon
+  - Interact
+  - Examine
+  - Trigger
+  - Zombie
+  - BodyPart
+  - PlayerBody
+  - PlayerInvisible
+  - PostProcessing Main
+  - PostProcessing Arms
   - 
   - 
   - 

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bbc304d540062340b3ffb395186a715, type: 3}
+  m_Name: InputMapper
+  m_EditorClassIdentifier: 
+  RewriteConfig: 1
+  inputMap:
+  - InputName: Forward
+    DefaultKey: 119
+  - InputName: Backward
+    DefaultKey: 115
+  - InputName: Left
+    DefaultKey: 97
+  - InputName: Right
+    DefaultKey: 100
+  - InputName: Jump
+    DefaultKey: 32
+  - InputName: Run
+    DefaultKey: 304
+  - InputName: Crouch
+    DefaultKey: 306
+  - InputName: Prone
+    DefaultKey: 99
+  - InputName: Fire
+    DefaultKey: 323
+  - InputName: Zoom
+    DefaultKey: 324
+  - InputName: Reload
+    DefaultKey: 114
+  - InputName: Use
+    DefaultKey: 101
+  - InputName: Pickup
+    DefaultKey: 113
+  - InputName: Throw
+    DefaultKey: 324
+  - InputName: Flashlight
+    DefaultKey: 102
+  - InputName: Inventory
+    DefaultKey: 9
+  - InputName: LeanLeft
+    DefaultKey: 121
+  - InputName: LeanRight
+    DefaultKey: 120
